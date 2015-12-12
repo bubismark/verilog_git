@@ -1,0 +1,22 @@
+C:/Users/mbubis/Desktop/Verilog/verilog_git/final_ALU/half_alu.v {1 {vlog -work work -sv -stats=none C:/Users/mbubis/Desktop/Verilog/verilog_git/final_ALU/half_alu.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module half_alu
+
+Top level modules:
+	half_alu
+
+} {} {}} C:/Users/mbubis/Desktop/Verilog/verilog_git/final_ALU/full_alu.v {1 {vlog -work work -sv -stats=none C:/Users/mbubis/Desktop/Verilog/verilog_git/final_ALU/full_alu.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module full_alu
+
+Top level modules:
+	full_alu
+
+} {} {}} C:/Users/mbubis/Desktop/Verilog/verilog_git/final_ALU/alu_8.v {1 {vlog -work work -sv -stats=none C:/Users/mbubis/Desktop/Verilog/verilog_git/final_ALU/alu_8.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu_8
+
+Top level modules:
+	alu_8
+
+} {} {}}

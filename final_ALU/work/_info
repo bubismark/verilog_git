@@ -1,0 +1,160 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+valu
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1449913420
+!i10b 1
+!s100 JE_oE57Fm9<=nQ2oBE2793
+I;4N59BaciTl8eg<8Goo^?2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 !s105 alu_full_ver_v_unit
+S1
+Z3 dC:/Users/mbubis/Desktop/Verilog/verilog_git/final_ALU
+w1449913411
+Z4 8C:/Users/mbubis/Desktop/Verilog/verilog_git/final_ALU/alu_full_ver.v
+Z5 FC:/Users/mbubis/Desktop/Verilog/verilog_git/final_ALU/alu_full_ver.v
+L0 1
+Z6 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1449913420.000000
+Z7 !s107 C:/Users/mbubis/Desktop/Verilog/verilog_git/final_ALU/alu_full_ver.v|
+Z8 !s90 -##implicit##push_minusfile_path##|C:/Modeltech_pe_edu_10.4a/examples/vlog.opt|-##implicit##pop_minusfile_path##|-reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mbubis/Desktop/Verilog/verilog_git/final_ALU/alu_full_ver.v|
+!s101 -O0
+!i113 1
+Z9 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+Z10 tSvlog 1
+valu_8
+R0
+Z11 !s110 1449915391
+!i10b 1
+!s100 =;WNKLkd;:eLJm^@Zg>152
+IUMD>0[jTVZZN2ecMgm2mC0
+R1
+!s105 alu_8_v_unit
+S1
+R3
+w1449913251
+8alu_8.v
+Falu_8.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z12 !s108 1449915391.000000
+Z13 !s107 full_alu.v|alu_8.v|alu_tb.v|
+Z14 !s90 -##implicit##push_minusfile_path##|C:/Modeltech_pe_edu_10.4a/examples/vlog.opt|-##implicit##pop_minusfile_path##|-reportprogress|300|-sv|-work|work|alu_tb.v|alu_8.v|full_alu.v|
+!s101 -O0
+!i113 1
+Z15 o-sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+R10
+valu_full_ver
+R0
+!s110 1449915189
+!i10b 1
+!s100 RmIi^H@Wb0HCSaC9Q8DX81
+IN1>J3Gm^J=4I:zO:eBDN^0
+R1
+R2
+S1
+R3
+w1449915149
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1449915189.000000
+R7
+R8
+!s101 -O0
+!i113 1
+R9
+R10
+valu_tb
+R0
+R11
+!i10b 1
+!s100 co;6Xi4z7hKB=8@4Jhc4>0
+IJ8Ai[:B3z:JFGMeOYVokG3
+R1
+!s105 alu_tb_v_unit
+S1
+R3
+w1449915379
+8alu_tb.v
+Falu_tb.v
+L0 5
+R6
+r1
+!s85 0
+31
+R12
+R13
+R14
+!s101 -O0
+!i113 1
+R15
+R10
+vfull_alu
+R0
+R11
+!i10b 1
+!s100 1cVcO<lgnM_@QMVSP85fD2
+I]k6=A4::<1EeTZfcXKH_a2
+R1
+!s105 full_alu_v_unit
+S1
+R3
+w1448965724
+8full_alu.v
+Ffull_alu.v
+L0 1
+R6
+r1
+!s85 0
+31
+R12
+R13
+R14
+!s101 -O0
+!i113 1
+R15
+R10
+vhalf_alu
+R0
+!s110 1449915190
+!i10b 1
+!s100 T5;JlMQKCNSK]T09cTe6O0
+IK_4SO^7KM:T]k<NAm6I^K2
+R1
+!s105 half_alu_v_unit
+S1
+R3
+w1448965730
+8C:/Users/mbubis/Desktop/Verilog/verilog_git/final_ALU/half_alu.v
+FC:/Users/mbubis/Desktop/Verilog/verilog_git/final_ALU/half_alu.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1449915190.000000
+!s107 C:/Users/mbubis/Desktop/Verilog/verilog_git/final_ALU/half_alu.v|
+!s90 -##implicit##push_minusfile_path##|C:/Modeltech_pe_edu_10.4a/examples/vlog.opt|-##implicit##pop_minusfile_path##|-reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mbubis/Desktop/Verilog/verilog_git/final_ALU/half_alu.v|
+!s101 -O0
+!i113 1
+R9
+R10

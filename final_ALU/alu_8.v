@@ -3,7 +3,7 @@ module alu_8(x, y, sel, sum, carry);
 	
 	input [7:0] x;
 	input [7:0] y;
-	input [2:0] sel;
+	input [3:0] sel;
 	//output
 	
 	output [7:0] sum;
@@ -16,7 +16,7 @@ module alu_8(x, y, sel, sum, carry);
 	wire [7:0] y;
 	wire [7:0] sum ;
 	wire carry;
-	wire [2:0] sel;
+	wire [3:0] sel;
 	// Internal variables
 	
 	wire temp_carry_1;
